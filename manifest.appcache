@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 6cc993a6b133c23d48f4d0d258c5936cf10392fd
+# sw.version: 6e13f78d2541d1080f38e4df16acfae832df7ac7
 # sw.file.hash: 4b64926f88d5ad8d84b081c65973757ba92123c9
 /app.js
 # sw.file.hash: ed75caf0a76290fb05e07e93aec20f5377380829
@@ -79,7 +79,7 @@ CACHE MANIFEST
 /favicon.ico
 # sw.file.hash: 980242aafb28307dcf9cb58b212dbd545352ff93
 /forkme_light_background.png
-# sw.file.hash: 4055b5cf233a661ceda487df1953450a623d08dd
+# sw.file.hash: b1981c2df0fb2a304f8983328d3fa809a1b345aa
 /index.html
 # sw.file.hash: 866e0d442ab28a3f6037bbbf3b98e84afc60d1a0
 /tsconfig.json
