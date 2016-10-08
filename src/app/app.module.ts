@@ -1,4 +1,4 @@
-import { CommonModule } from '@angular/common';
+import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { NgModule } from '@angular/core';
@@ -13,7 +13,7 @@ import { BookFormComponent } from './book-form/book-form.component';
 import { BookStoreService } from './shared/book-store.service';
 import { IsbnPipe } from './shared/isbn-pipe';
 
-import { AppRoutingModule } from './app-routing.module.one-app';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -26,7 +26,7 @@ import { AppRoutingModule } from './app-routing.module.one-app';
     IsbnPipe
   ],
   imports: [
-    CommonModule,
+    BrowserModule,
     FormsModule,
     ReactiveFormsModule,
     HttpModule,
